@@ -15,5 +15,5 @@ This repository is a boilerplate for new nodejs projects, offering basic but nec
 - [X] husky
 - [X] lint-staged
 
-> [!INFO]
+> [!NOTE]
 > There is also a custom logger made from scratch based on `console.log` but with a few more configuration options and colors. Feel free to use it, modify it or remove it if you prefer a proper library such as PINO or WINSTON.
